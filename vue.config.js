@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/online-shop/',
   css: {
     loaderOptions: {
       sass: {
